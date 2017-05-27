@@ -1,3 +1,13 @@
+# Blockly for RobotKit
+Blockly version built for RobotKit's cirriculum by Fablab Saigon & Fablab Thao Dien
+
+Drop me an email at hello@fablabsaigon.org for any question 
+
+# Credits
+All credits go to these awesomes guys
+Google Blockly https://github.com/google/blockly
+Ardublockly https://github.com/carlosperate/ardublockly
+
 # Blockly [![Build Status]( https://travis-ci.org/google/blockly.svg?branch=master)](https://travis-ci.org/google/blockly)
 
 
